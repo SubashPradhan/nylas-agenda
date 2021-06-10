@@ -1,5 +1,6 @@
 import React from "react";
 import "@nylas/components-agenda";
+import './styles/main.css'
 
 export default function App() {
   return (
